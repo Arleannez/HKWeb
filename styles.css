@@ -19,7 +19,7 @@ nav {
   text-align: center;
   background-color: #320565;
   border-radius: 7px;
-  font-family: "Under Hiport";
+  font-family: 'Under Hiport';
   position: sticky;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 }
@@ -88,7 +88,7 @@ div{
 }
 
 div h1 {
-  font-family: "Under hiport";
+  font-family: 'Under hiport';
   color: #731a3b;
   text-align: center;
 }
